@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/demo_package_ucabhoe/__init__.py
+src/demo_package_ucabhoe/main.py
+src/demo_project_ubcahoe.egg-info/PKG-INFO
+src/demo_project_ubcahoe.egg-info/SOURCES.txt
+src/demo_project_ubcahoe.egg-info/dependency_links.txt
+src/demo_project_ubcahoe.egg-info/requires.txt
+src/demo_project_ubcahoe.egg-info/top_level.txt
